@@ -1,0 +1,16 @@
+.App {
+  /* text-align: center; */
+  background-color: lightsteelblue;
+}
+
+#TextBox #Image {
+  display: inline, flex;
+  width: 50%;
+  
+}
+
+.inline{
+  display: inline;
+}
+
+
